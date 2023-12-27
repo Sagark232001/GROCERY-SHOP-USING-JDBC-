@@ -26,7 +26,7 @@ How to Run
     * Compile and run the View.java file.
 
 Dependencies
-    * POSTGRESQL  Connector/J (JDBC Driver)
+    * POSTGRESQL  Connector (JDBC Driver)
 Acknowledgments
     Feel free to customize this README file according to your project's specifics. Add details about the functionality, 
     code structure, and any additional features you implement.
