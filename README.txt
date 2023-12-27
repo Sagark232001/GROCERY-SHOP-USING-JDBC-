@@ -28,6 +28,6 @@ How to Run
 Dependencies
     * POSTGRESQL  Connector/J (JDBC Driver)
 Acknowledgments
-    Feel free to customize this README file according to your project's specifics. Add details about the functionality, code structure, and any additional features you     
-    implement.
+    Feel free to customize this README file according to your project's specifics. Add details about the functionality, 
+    code structure, and any additional features you implement.
 
